@@ -1,0 +1,2 @@
+# testdjango
+django sandbox
